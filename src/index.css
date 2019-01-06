@@ -312,5 +312,9 @@ button{
     flex-basis: 30%;
   }
 
+  #form input {
+    font-size: 125%;
+  }
+
 }
 
